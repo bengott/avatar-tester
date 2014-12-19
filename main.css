@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+}
+
+.user {
+  display: inline-block;
+  padding-top: 20px;
+}
+
+.user-name {
+  font-size: 10pt;
+}
+
+.user .avatar {
+  padding: 5px;
+}
